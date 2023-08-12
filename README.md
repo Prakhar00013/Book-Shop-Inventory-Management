@@ -17,12 +17,12 @@ To run the software directly: open the dist folder and run the jar file: BookInv
 
 # Steps to run:
 
-Install the NetBeans IDE, download the code and import the Book Shop Inventory Management folder in your IDE.
-Setup the xampp database in the phpMyAdmin Panel.
-Create a schema (name: shopbook)
-Create the 3 required tables and their respective columns.
-Put some predefined data in the book table so that you can use it in the software.
-You are good to go.
+1. Install the NetBeans IDE, download the code and import the Book Shop Inventory Management folder in your IDE.
+2. Setup the xampp database in the phpMyAdmin Panel.
+3. Create a schema (name: shopbook)
+4. Create the 3 required tables and their respective columns.
+5. Put some predefined data in the book table so that you can use it in the software.
+6. You are good to go.
 
 # Screenshots of the Software:
 
