@@ -10,7 +10,7 @@ Book Shop Inventory management system in Java.
 
 # Description:
 
-This is a desktop GUI software built in java, which can manage sales of books, and their quantity in the database. The Book Shop owner can access the software. The database used is Apache Xampp MySql database. The database schema is also defined well and you can have a look at the schema, tables, columns and primary keys.
+This is a desktop GUI software built in java, which can manage sales of books, and their quantity in the database. The Book Shop owner can access the software. The database used is Apache Xampp MySql database. Enabling the book shop owner to keep track of the sales, inventory of book and generate bills. The database schema is also defined well and you can have a look at the schema, tables, columns and primary keys.
 Java Jasper library is used to create the bill which stores the information of the sales in the database, after the payment is done.
 
 To run the software directly: open the dist folder and run the jar file: BookInvnt.jar
