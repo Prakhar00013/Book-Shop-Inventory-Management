@@ -43,7 +43,7 @@ public class bookShop extends javax.swing.JFrame {
     
 	String username = "root";
 	String password = "";
-	String url = "jdbc:mysql://localhost/bookshop";
+	String url = "jdbc:mysql://localhost/shopbook";
 	
 	private void connection() {
         try {
